@@ -1,33 +1,54 @@
-# 🧮 Python Calculator
+# 🧮 Python Calculator Projects
 
-## 📌 Description
-This is a simple Python calculator program that can perform basic arithmetic operations such as:
-- Addition
-- Subtraction
-- Multiplication
-- Division
+This repository contains two different calculator applications that I built while learning Python.  
+Both projects helped me practice programming concepts and explore how to create simple real-world applications.
 
-I built this project while learning Python to practice:
+---
+
+## 📌 Projects Included
+
+### 1️⃣ calculator1.py – Basic Console Calculator
+A simple calculator that works in the terminal.
+
+**Features**
+- ➕ Addition
+- ➖ Subtraction
+- ✖ Multiplication
+- ➗ Division
+- 👨‍💻 User-input based
+- 🧠 Good for learning basic Python logic
+
+**Concepts used**
+- input() and print()
+- if-else conditions
+- loops (if used)
+- basic arithmetic operators
+
+---
+
+### 2️⃣ green and black calculator.py – GUI Calculator (Tkinter)
+A graphical calculator built using **Tkinter**.
+
+**Features**
+- 🟢 Green & black themed UI
+- 🖱 Button-based input
+- ➕ ➖ ✖ ➗ operations
+- 🪟 Runs in a GUI window
+
+**Concepts used**
+- Tkinter GUI library
+- buttons & layouts
+- event handling
 - functions
-- user input
-- conditional statements
+
+---
 
 ## ▶️ How to Run
-1. Make sure Python is installed on your system  
-2. Download or clone this repository  
-3. Run the file:
 
-python calculator.py
+### Option 1 — Run from Python
+1. Install Python (3.x recommended)
+2. Download this repository
+3. Open a terminal or command prompt
+4. Run:
 
-## 🚀 Features
-- Simple and beginner-friendly
-- Works in the terminal
-- Handles multiple operations
-
-## 🔮 Future Improvements
-- Add GUI (Graphical User Interface)
-- Add history of calculations
-- Add scientific calculator functions
-
-## 👤 Author
-Rushaan
+For console calculator:
